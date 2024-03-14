@@ -7,7 +7,7 @@ let videos=[
     {
         name:"777-Charlie-Telugu-h1tfe-2022(mp4)",
         thumbnail:"777-Charlie-Telugu-h1tfe-2022(mp4).jpg",
-        video:"777-Charlie-Telugu-h1tfe-2022.mp4"
+        video:"https://www.jiocinema.com/movies/777-charlie/3502254/watch"
     },
     {
         name:"Brahmastra-Part-One-Shiva-Telugu-n3sdf-2022(mp4)",
